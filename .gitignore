@@ -210,3 +210,4 @@ notebooks/outputs/
 notebooks/unsloth_compiled_cache/
 notebooks/grpo_trainer_lora_model
 notebooks/grpo_saved_lora
+notebooks/gemma-3-270m-it
