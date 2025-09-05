@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+notebooks/outputs/
+notebooks/unsloth_compiled_cache/
+notebooks/grpo_trainer_lora_model
+notebooks/grpo_saved_lora
